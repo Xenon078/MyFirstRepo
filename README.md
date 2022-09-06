@@ -8,7 +8,7 @@
 [![Watch the video](https://user-images.githubusercontent.com/112948621/188631068-0713e98f-a35a-481d-9556-a1ca848013f8.png)](https://youtu.be/yGtpiWHmJl0)
 
 
-#code
+## code
 
 ```ruby
 a = 5
